@@ -1,0 +1,2 @@
+gradio==4.31.2 
+pandasai==2.0.40
